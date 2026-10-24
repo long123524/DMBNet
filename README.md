@@ -1,10 +1,11 @@
 # DMBNet
 
-Official Pytorch Code base for "A DINOv3-Driven Framework with Multiscale Adaptation and Boundary Refinement for Martian Slope Streak Change Detection" [Paper]
+Official Pytorch Code base for "A DINOv3-Driven Framework with Multiscale Adaptation and Boundary Refinement for Martian Slope Streak Change Detection" [[Paper](https://ieeexplore.ieee.org/document/11737601)]
 
 ## Introduction
 
 We propose a novel pixel-level slope streak change detection approach, named DMBNet. It aims to extract fine change streak information by integrating a VFM (i.e., DINOv3) with boundary refinement and multiscale adaptation. To the best of our knowledge, this is the first work to detect pixel-level slope streak changes using a tailored deep learning network.
+
 
 ## Using the code:
 
@@ -77,5 +78,13 @@ A pretrained weight of DINOv3 on the LVD dataset is provided: https://drive.goog
 ### Citation:
 If you find this work useful or interesting, please consider citing the following references.
 ```
-
+@article{long2026dinov3,
+  title={A DINOv3-Driven Framework with Multiscale Adaptation and Boundary Refinement for Martian Slope Streak Change Detection},
+  author={Long, Jiang and Liu, Sicong and Wan, Bo and Xu, Yusheng and Xie, Huan and Tong, Xiaohua},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  volume={23},
+  pages={6022205-6022205},
+  year={2026},
+  publisher={IEEE}
+}
 ```
