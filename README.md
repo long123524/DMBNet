@@ -87,4 +87,14 @@ If you find this work useful or interesting, please consider citing the followin
   year={2026},
   publisher={IEEE}
 }
+@article{long2026cghu,
+  title={CGHU-CD: A contrast-guided hierarchical unsupervised method for detecting Martian anthropogenic changes},
+  author={Long, Jiang and Liu, Sicong and Hu, Yuxuan and Wu, Jiayi and Liu, Tao and Xiong, Yonggang and Luo, Kaiyue and Zhang, Jie and Du, Kecheng and Xie, Huan and others},
+  journal={International Journal of Applied Earth Observation and Geoinformation},
+  volume={153},
+  pages={105556},
+  year={2026},
+  publisher={Elsevier}
+}
+
 ```
