@@ -6,6 +6,9 @@ Official Pytorch Code base for "A DINOv3-Driven Framework with Multiscale Adapta
 
 We propose a novel pixel-level slope streak change detection approach, named DMBNet. It aims to extract fine change streak information by integrating a VFM (i.e., DINOv3) with boundary refinement and multiscale adaptation. To the best of our knowledge, this is the first work to detect pixel-level slope streak changes using a tailored deep learning network.
 
+<p align="center">
+  <img src="imgs/DMBNet.png" width="800"/>
+</p>
 
 ## Using the code:
 
